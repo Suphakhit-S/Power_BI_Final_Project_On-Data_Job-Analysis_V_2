@@ -1,0 +1,4 @@
+star_schema_files/company_dim.csv
+star_schema_files/job_postings_fact.csv
+star_schema_files/skills_job_dim.csv
+star_schema_files/skills_dim.csv
